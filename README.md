@@ -30,7 +30,7 @@ Este projeto une os exercícios 5 e 6, consumindo a API `http://worldclockapi.co
 
 ### teste_7
 
-O projeto teste 7 documenta a criação de um banco de dados. Para detalhes sobre como criar o banco de dados, consulte o [README.md do teste7](link-para-readme-teste7).
+O projeto teste 7 documenta a criação de um banco de dados. Para detalhes sobre como criar o banco de dados, consulte o .
 
 ## Configuração
 
